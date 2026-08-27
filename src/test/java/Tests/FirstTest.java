@@ -1,21 +1,8 @@
 package Tests;
 
-import java.nio.file.Path;
-
 import org.testng.annotations.Test;
 
-import com.microsoft.playwright.Browser;
-import com.microsoft.playwright.BrowserContext;
-import com.microsoft.playwright.BrowserType;
-import com.microsoft.playwright.Playwright;
-
 import base.BaseTest;
-
-import com.microsoft.playwright.BrowserType.ConnectOptions;
-import com.microsoft.playwright.BrowserType.ConnectOverCDPOptions;
-import com.microsoft.playwright.BrowserType.LaunchOptions;
-import com.microsoft.playwright.BrowserType.LaunchPersistentContextOptions;
-import com.microsoft.playwright.Page;
 
 public class FirstTest extends BaseTest {
 

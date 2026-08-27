@@ -1,0 +1,9 @@
+src --->main
+        java
+         (can keep empty)
+         
+   =====>test
+        ==>java
+         --->base->BaseTest.java
+         ---->Pages -->Page clases(e.g.,HomePage.java)
+         ----->tests--->Test classes(e.g. HomePageTest.java)      

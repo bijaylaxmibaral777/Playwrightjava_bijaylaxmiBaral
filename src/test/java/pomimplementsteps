@@ -1,0 +1,8 @@
+step-Understand the use case that we have to automate
+
+usecase:-
+1.go to loginpage
+2.enter user name:Admin
+3.enter password:admin123
+4.click login
+5.verify dashboard page is displayed(Dashboard heading)
